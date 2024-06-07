@@ -15,7 +15,7 @@
 ### Tecnologias Utilizadas
 > - ASP.NET Core
 > - Entity Framework Core (para acesso ao banco de dados)
-> - Banco de Dados: [Insira o nome do seu banco de dados aqui]
+> - Banco de Dados: [ORACLE SLQ DEVELOPER]
 #### FUNCIONALIDADES:
 > - CRUD (Create, Read, Update e Delete) de usuários.
 > - Validação de login.
